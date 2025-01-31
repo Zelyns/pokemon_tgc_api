@@ -3,7 +3,6 @@ package fr.efrei.pokemon_tcg.services;
 import fr.efrei.pokemon_tcg.dto.CapturePokemon;
 import fr.efrei.pokemon_tcg.dto.DresseurDTO;
 import fr.efrei.pokemon_tcg.models.Dresseur;
-import fr.efrei.pokemon_tcg.dto.OuvrirBoosterDTO;
 
 
 import java.util.List;
